@@ -1,1 +1,1 @@
-# Case-Study-How-Can-a-Wellness-Technology-Company-Play-It-Smart-
+# Google-Data-Analytics-Bellabeat-Case-Study
