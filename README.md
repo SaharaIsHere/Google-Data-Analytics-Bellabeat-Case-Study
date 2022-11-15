@@ -21,3 +21,7 @@ Bellabeat, a high-tech manufacturer of health-focused products for women, is a s
 
 ## 1. Ask
 **Business Task:** Analyze smart device usage data in order to gain insight into how customers use non-Bellabeat smart devices and help guide marketing strategy for Bellabeat to become a larger player in the global market.
+
+**Primary Stakeholders:** Urška Sršen and Sando Mur, executive team members
+
+**Secondary Stakeholders:** BellaBeat marketing team
