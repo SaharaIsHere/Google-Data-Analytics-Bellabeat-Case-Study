@@ -25,3 +25,8 @@ Bellabeat, a high-tech manufacturer of health-focused products for women, is a s
 **Primary Stakeholders:** Urška Sršen and Sando Mur, executive team members
 
 **Secondary Stakeholders:** BellaBeat marketing team
+
+## 2. Prepare
+- The data used in this analysis is the FitBit Fitness Tracker data from 30 participants made available by Mobius stored on [kaggle](https://www.kaggle.com/datasets/arashnic/fitbit?select=Fitabase+Data+4.12.16-5.12.16).
+- The dataset has 18 CSV files organized in long format.
+- The data is under CC0: Public Domain meaning that the creator has waived all of his or her rights to the work worldwide under copyright law.
