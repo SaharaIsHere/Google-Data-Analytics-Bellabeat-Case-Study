@@ -51,3 +51,7 @@ Bellabeat, a high-tech manufacturer of health-focused products for women, is a s
 
 
 - **C**ited: :green_circle::green_circle::green_circle: [Sources](https://zenodo.org/record/53894#.X9oeh3Uzaao) are well documented.
+
+**Data Limitations**
+- After using n_distinct() to check the number of unique user id, the number of users is 33 in daily tables which is more than the initial description of the data. T
+- The number of unique users are 24 for sleep, 14 for heart rate , and 8 for weight.
